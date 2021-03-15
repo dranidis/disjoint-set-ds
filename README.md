@@ -1,3 +1,5 @@
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+
 # Disjoint Set data structure
 
 A disjoint-set data structure stores a collection of disjoint (non-overlapping) sets. It provides operations for adding new sets, merging sets (replacing them by their union), and finding a representative member of a set. Disjoint-set data structures play a key role in Kruskal's algorithm for finding the minimum spanning tree of a graph. 
