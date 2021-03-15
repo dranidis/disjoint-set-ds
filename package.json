@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "types": "dist/index.d.js",
   "scripts": {
-    "test": "jest --config jestconfig.json",
+    "test": "jest",
     "prepublishOnly": "eslint . --ext .ts",
     "prepare": "npm run build",
     "build": "tsc",
@@ -41,5 +41,19 @@
   },
   "files": [
     "/dist"
-  ]
+  ],
+  "jest": {
+    "transform": {
+      "^.+\\.(t|j)sx?$": "ts-jest"
+    },
+    "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.(jsx?|tsx?)$",
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js",
+      "jsx",
+      "json",
+      "node"
+    ]
+  }
 }
