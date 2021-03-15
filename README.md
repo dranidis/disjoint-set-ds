@@ -1,4 +1,4 @@
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![example workflow](https://github.com/dranidis/disjoint-set-ds/actions/workflows/main.yml/badge.svg)
 
 # Disjoint Set data structure
 
