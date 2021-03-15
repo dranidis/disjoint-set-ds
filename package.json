@@ -6,6 +6,7 @@
   "types": "dist/index.d.js",
   "scripts": {
     "test": "jest",
+    "cover": "jest --coverage",
     "prepublishOnly": "eslint . --ext .ts",
     "prepare": "npm run build",
     "build": "tsc",
