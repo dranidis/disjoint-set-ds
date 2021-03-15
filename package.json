@@ -1,6 +1,6 @@
 {
   "name": "disjoint-set-ds",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Implementation of Disjoint sets data structure.",
   "main": "dist/index.js",
   "types": "dist/index.d.js",
