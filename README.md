@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.com/dranidis/disjoint-set-ds.svg?branch=main)](https://travis-ci.com/dranidis/disjoint-set-ds)
-
+[![Coverage Status](https://coveralls.io/repos/github/dranidis/disjoint-set-ds/badge.svg)](https://coveralls.io/github/dranidis/disjoint-set-ds)
+![Dependencies Status](https://status.david-dm.org/gh/dranidis/disjoint-set-ds.svg)
 ![example workflow](https://github.com/dranidis/disjoint-set-ds/actions/workflows/main.yml/badge.svg)
 
 # Disjoint Set data structure
