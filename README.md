@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/dranidis/disjoint-set-ds.svg?branch=main)](https://travis-ci.com/dranidis/disjoint-set-ds)
+
 ![example workflow](https://github.com/dranidis/disjoint-set-ds/actions/workflows/main.yml/badge.svg)
 
 # Disjoint Set data structure
